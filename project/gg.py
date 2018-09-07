@@ -3,3 +3,8 @@ b = 2
 
 def play():
    print("f")
+
+
+def kk()
+
+	print('kk')
