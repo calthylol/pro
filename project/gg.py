@@ -8,3 +8,9 @@ def play():
 def kk()
 
 	print('kk')
+
+
+
+
+def ll():
+ print(fdf)
